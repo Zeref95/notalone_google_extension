@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "notalone.tv Extension",
+  "version": "1.0.0",
+  "action": {
+    "default_icon": {
+      "128": "logo.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "permissions": ["storage", "activeTab", "scripting"]
+}
